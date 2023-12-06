@@ -14,7 +14,7 @@ The template provides a starting point for bringing your SageMaker Pipeline deve
 |   |-- __init__.py
 |   |-- run_pipeline.py
 |   |-- _utils.py
-|   `-- __version__.py
+|   `-- __version__.py  
 |-- README.md
 |-- setup.cfg
 |-- setup.py
@@ -45,7 +45,6 @@ Your pipeline artifacts, which includes a pipeline module defining the required 
 |   |   `-- preprocess.py
 
 ```
-<br/><br/>
 Utility modules for getting pipeline definition jsons and running pipelines (you do not typically need to modify these):
 
 ```
